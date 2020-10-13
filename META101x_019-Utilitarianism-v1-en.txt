@@ -1,0 +1,60 @@
+PRESENTER NAME: Liam Miller.
+The first moral theory we will look at is utilitarianism.
+Utilitarianism is a consequentialist moral theory.
+As the name implies, this theory evaluates the consequences of an action to judge its
+moral worth.
+But how do we evaluate consequence?
+Jeremy Bentham, who coined the term Utilitarianism, argued that anything that was pleasurable
+was good, and anything that was painful was bad.
+Further to this, he argued that what mattered the most was the net amount of pleasure generated
+from everybody concerned.
+Whichever action generated the most net pleasure overall, minus any pain overall, was the right
+action.
+There are two factors at play here: Hedonistic values and maximising the good overall.
+First, to say that Bentham was a hedonist is to say that he was only concerned with
+attaining pleasure and avoiding pain.
+Bentham believed that all pleasures were created equally.
+If I got immense pleasure from watching the Lord of the Rings movies, and my friend got
+an equal amount of pleasure from reading the books, Bentham would be happy to rank these
+actions as both comparatively good.
+Second, in maximising the good, Bentham was concerned not just with individuals, but with
+everyone.
+He wanted to maximise the overall good.
+Everyone is equally important in these calculations.
+Let’s say, for example, my friend and I want to watch a movie but are having trouble
+agreeing on what to watch.
+I want to watch The Lord of the Rings, whereas my friend wants to watch Love, Actually.
+We’re going to use what Bentham called Hedonic calculus to figure out what movie to see.
+I gain a lot of pleasure from lord of the rings.
+We might say it generates 10 Hedons of pleasure.
+However, my friend hates these movies, and watching it causes her an equal amount of
+pain.
+We might say her pain generates -10 hedons.
+Based on this quick calculation, that action would have a value of 0.
+It would generate an equal amount of pain to pleasure.
+However, if we watch Love Actually, the calculations are different.
+My friend loves this movie, so it generates 10 Hedons.
+I don’t love it, but don’t hate it either, so it generates -5 hedons for me.
+In total, then, this action would generate 5 hedons.
+So, when evaluating which movie to watch, the clear winner is the one that generates
+more hedons overall.
+Hedonic Calculus is a way of evaluating the consequences of different possible actions
+and deciding which maximises the overall pleasure and minimises the overall pain.
+Bentham’s evaluations were based on 7 categories: intensity, duration, certainty, nearness,
+fruitfulness, purity, and extent.
+John Stuart Mill is the other big name in Utilitarianism.
+He agreed with many of Bentham’s ideas, but was very critical of how he saw pleasure
+and pain.
+For Mill, not all pleasures were created equal.
+There are two types of pleasures for Mill, Higher and lower.
+[CLICK The lower pleasures are things like eating
+and drinking, physical affection, and a warm bed on a cold night.
+The higher, and more superior pleasures, are things like the pursuit of knowledge, reading,
+engaging in moral problems, creativity, and aesthetics.
+Mill argued that Bentham’s moral theory was a ‘Pig Philosophy’, where we would
+have to assume that a happy pig was better off than a slightly dissatisfied Socrates.
+For Mill’s part, he would rather be Socrates dissatisfied than a pig satisfied.
+In other words, Mill argued the lower pleasures in life could not generate as much good as
+the higher pleasures.
+Being slightly dissatisfied but engaged in higher pleasures was worth more than being
+blissful but rolling in mud.
